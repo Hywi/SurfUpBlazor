@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "8kXXI9e/s0m6vL8fMRGdcbJCrcyxDR2Yw5g7nvdc0nKjfQSf23q/z1Iwx/JB9aJsh37wF188IuTmJD1qqdfDsA==",
+  "dgSpecHash": "HQlRtdqAkVHhGK16Szy9Tyn0h0kwPdCih2hzZMq78NHj4spC6tGgwDzP5HYbIPOr9o+We++/r0Rwr7UK31eB+Q==",
   "success": true,
   "projectFilePath": "C:\\Users\\Jacos\\source\\repos\\SurfUpBlazor\\SurfUp\\SurfUp\\Client\\SurfUp.Client.csproj",
   "expectedPackageFiles": [
@@ -14,6 +14,8 @@
     "C:\\Users\\Jacos\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly.authentication\\6.0.10\\microsoft.aspnetcore.components.webassembly.authentication.6.0.10.nupkg.sha512",
     "C:\\Users\\Jacos\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly.devserver\\6.0.10\\microsoft.aspnetcore.components.webassembly.devserver.6.0.10.nupkg.sha512",
     "C:\\Users\\Jacos\\.nuget\\packages\\microsoft.aspnetcore.metadata\\6.0.10\\microsoft.aspnetcore.metadata.6.0.10.nupkg.sha512",
+    "C:\\Users\\Jacos\\.nuget\\packages\\microsoft.aspnetcore.mvc.versioning\\5.0.0\\microsoft.aspnetcore.mvc.versioning.5.0.0.nupkg.sha512",
+    "C:\\Users\\Jacos\\.nuget\\packages\\microsoft.aspnetcore.mvc.versioning.apiexplorer\\5.0.0\\microsoft.aspnetcore.mvc.versioning.apiexplorer.5.0.0.nupkg.sha512",
     "C:\\Users\\Jacos\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.10\\microsoft.entityframeworkcore.6.0.10.nupkg.sha512",
     "C:\\Users\\Jacos\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\6.0.10\\microsoft.entityframeworkcore.abstractions.6.0.10.nupkg.sha512",
     "C:\\Users\\Jacos\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\6.0.10\\microsoft.entityframeworkcore.analyzers.6.0.10.nupkg.sha512",

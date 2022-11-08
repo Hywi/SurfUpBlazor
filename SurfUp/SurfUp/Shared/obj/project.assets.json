@@ -586,11 +586,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Jacos\\Source\\Repos\\SurfUpBlazor\\SurfUp\\SurfUp\\Shared\\SurfUp.Shared.csproj",
+      "projectUniqueName": "C:\\Users\\Jacos\\source\\repos\\SurfUpBlazor\\SurfUp\\SurfUp\\Shared\\SurfUp.Shared.csproj",
       "projectName": "SurfUp.Shared",
-      "projectPath": "C:\\Users\\Jacos\\Source\\Repos\\SurfUpBlazor\\SurfUp\\SurfUp\\Shared\\SurfUp.Shared.csproj",
+      "projectPath": "C:\\Users\\Jacos\\source\\repos\\SurfUpBlazor\\SurfUp\\SurfUp\\Shared\\SurfUp.Shared.csproj",
       "packagesPath": "C:\\Users\\Jacos\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Jacos\\Source\\Repos\\SurfUpBlazor\\SurfUp\\SurfUp\\Shared\\obj\\",
+      "outputPath": "C:\\Users\\Jacos\\source\\repos\\SurfUpBlazor\\SurfUp\\SurfUp\\Shared\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Jacos\\AppData\\Roaming\\NuGet\\NuGet.Config",

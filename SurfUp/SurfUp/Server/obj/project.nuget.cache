@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "0Zkxtj4qqF0DI+xHVn2kAHY370RUPX6oxO8Y/T9JJhpq6e/9wlpvOsuzSbn2WpGs1vr5sqyUEncpWx6IuRJ80g==",
+  "dgSpecHash": "W0pL5s/grJhGCxg/fTHs7fPWG0525fUcCE7k+FFvDpQVei0BVhm9so43yIJt9MxWc51aNbl5yzhozL+g1XgKtw==",
   "success": true,
   "projectFilePath": "C:\\Users\\Jacos\\source\\repos\\SurfUpBlazor\\SurfUp\\SurfUp\\Server\\SurfUp.Server.csproj",
   "expectedPackageFiles": [
@@ -34,6 +34,8 @@
     "C:\\Users\\Jacos\\.nuget\\packages\\microsoft.aspnetcore.identity.entityframeworkcore\\6.0.10\\microsoft.aspnetcore.identity.entityframeworkcore.6.0.10.nupkg.sha512",
     "C:\\Users\\Jacos\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\microsoft.aspnetcore.identity.ui.6.0.10.nupkg.sha512",
     "C:\\Users\\Jacos\\.nuget\\packages\\microsoft.aspnetcore.metadata\\6.0.10\\microsoft.aspnetcore.metadata.6.0.10.nupkg.sha512",
+    "C:\\Users\\Jacos\\.nuget\\packages\\microsoft.aspnetcore.mvc.versioning\\5.0.0\\microsoft.aspnetcore.mvc.versioning.5.0.0.nupkg.sha512",
+    "C:\\Users\\Jacos\\.nuget\\packages\\microsoft.aspnetcore.mvc.versioning.apiexplorer\\5.0.0\\microsoft.aspnetcore.mvc.versioning.apiexplorer.5.0.0.nupkg.sha512",
     "C:\\Users\\Jacos\\.nuget\\packages\\microsoft.aspnetcore.razor.language\\6.0.0\\microsoft.aspnetcore.razor.language.6.0.0.nupkg.sha512",
     "C:\\Users\\Jacos\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\5.0.0\\microsoft.bcl.asyncinterfaces.5.0.0.nupkg.sha512",
     "C:\\Users\\Jacos\\.nuget\\packages\\microsoft.build\\17.0.0\\microsoft.build.17.0.0.nupkg.sha512",
