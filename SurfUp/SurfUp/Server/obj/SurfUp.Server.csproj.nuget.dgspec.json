@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\source\\repos\\MyBlazorProject\\SurfUp\\SurfUp\\Server\\SurfUp.Server.csproj": {}
+    "C:\\Users\\Jacos\\source\\repos\\SurfUpBlazor\\SurfUp\\SurfUp\\Server\\SurfUp.Server.csproj": {}
   },
   "projects": {
-    "D:\\source\\repos\\MyBlazorProject\\SurfUp\\SurfUp\\Client\\SurfUp.Client.csproj": {
+    "C:\\Users\\Jacos\\source\\repos\\SurfUpBlazor\\SurfUp\\SurfUp\\Client\\SurfUp.Client.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\source\\repos\\MyBlazorProject\\SurfUp\\SurfUp\\Client\\SurfUp.Client.csproj",
+        "projectUniqueName": "C:\\Users\\Jacos\\source\\repos\\SurfUpBlazor\\SurfUp\\SurfUp\\Client\\SurfUp.Client.csproj",
         "projectName": "SurfUp.Client",
-        "projectPath": "D:\\source\\repos\\MyBlazorProject\\SurfUp\\SurfUp\\Client\\SurfUp.Client.csproj",
+        "projectPath": "C:\\Users\\Jacos\\source\\repos\\SurfUpBlazor\\SurfUp\\SurfUp\\Client\\SurfUp.Client.csproj",
         "packagesPath": "C:\\Users\\Jacos\\.nuget\\packages\\",
-        "outputPath": "D:\\source\\repos\\MyBlazorProject\\SurfUp\\SurfUp\\Client\\obj\\",
+        "outputPath": "C:\\Users\\Jacos\\source\\repos\\SurfUpBlazor\\SurfUp\\SurfUp\\Client\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Jacos\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\source\\repos\\MyBlazorProject\\SurfUp\\SurfUp\\Shared\\SurfUp.Shared.csproj": {
-                "projectPath": "D:\\source\\repos\\MyBlazorProject\\SurfUp\\SurfUp\\Shared\\SurfUp.Shared.csproj"
+              "C:\\Users\\Jacos\\source\\repos\\SurfUpBlazor\\SurfUp\\SurfUp\\Shared\\SurfUp.Shared.csproj": {
+                "projectPath": "C:\\Users\\Jacos\\source\\repos\\SurfUpBlazor\\SurfUp\\SurfUp\\Shared\\SurfUp.Shared.csproj"
               }
             }
           }
@@ -54,6 +54,10 @@
             },
             "Microsoft.AspNetCore.Components.WebAssembly.DevServer": {
               "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[6.0.10, )"
             },
@@ -93,14 +97,14 @@
         }
       }
     },
-    "D:\\source\\repos\\MyBlazorProject\\SurfUp\\SurfUp\\Server\\SurfUp.Server.csproj": {
+    "C:\\Users\\Jacos\\source\\repos\\SurfUpBlazor\\SurfUp\\SurfUp\\Server\\SurfUp.Server.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\source\\repos\\MyBlazorProject\\SurfUp\\SurfUp\\Server\\SurfUp.Server.csproj",
+        "projectUniqueName": "C:\\Users\\Jacos\\source\\repos\\SurfUpBlazor\\SurfUp\\SurfUp\\Server\\SurfUp.Server.csproj",
         "projectName": "SurfUp.Server",
-        "projectPath": "D:\\source\\repos\\MyBlazorProject\\SurfUp\\SurfUp\\Server\\SurfUp.Server.csproj",
+        "projectPath": "C:\\Users\\Jacos\\source\\repos\\SurfUpBlazor\\SurfUp\\SurfUp\\Server\\SurfUp.Server.csproj",
         "packagesPath": "C:\\Users\\Jacos\\.nuget\\packages\\",
-        "outputPath": "D:\\source\\repos\\MyBlazorProject\\SurfUp\\SurfUp\\Server\\obj\\",
+        "outputPath": "C:\\Users\\Jacos\\source\\repos\\SurfUpBlazor\\SurfUp\\SurfUp\\Server\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Jacos\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -117,11 +121,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\source\\repos\\MyBlazorProject\\SurfUp\\SurfUp\\Client\\SurfUp.Client.csproj": {
-                "projectPath": "D:\\source\\repos\\MyBlazorProject\\SurfUp\\SurfUp\\Client\\SurfUp.Client.csproj"
+              "C:\\Users\\Jacos\\source\\repos\\SurfUpBlazor\\SurfUp\\SurfUp\\Client\\SurfUp.Client.csproj": {
+                "projectPath": "C:\\Users\\Jacos\\source\\repos\\SurfUpBlazor\\SurfUp\\SurfUp\\Client\\SurfUp.Client.csproj"
               },
-              "D:\\source\\repos\\MyBlazorProject\\SurfUp\\SurfUp\\Shared\\SurfUp.Shared.csproj": {
-                "projectPath": "D:\\source\\repos\\MyBlazorProject\\SurfUp\\SurfUp\\Shared\\SurfUp.Shared.csproj"
+              "C:\\Users\\Jacos\\source\\repos\\SurfUpBlazor\\SurfUp\\SurfUp\\Shared\\SurfUp.Shared.csproj": {
+                "projectPath": "C:\\Users\\Jacos\\source\\repos\\SurfUpBlazor\\SurfUp\\SurfUp\\Shared\\SurfUp.Shared.csproj"
               }
             }
           }
@@ -156,11 +160,19 @@
               "target": "Package",
               "version": "[6.0.10, )"
             },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.10, )"
+            },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
               "version": "[6.0.10, )"
             },
             "Microsoft.EntityFrameworkCore.Tools": {
+              "target": "Package",
+              "version": "[6.0.10, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",
               "version": "[6.0.10, )"
             }
@@ -188,14 +200,14 @@
         }
       }
     },
-    "D:\\source\\repos\\MyBlazorProject\\SurfUp\\SurfUp\\Shared\\SurfUp.Shared.csproj": {
+    "C:\\Users\\Jacos\\source\\repos\\SurfUpBlazor\\SurfUp\\SurfUp\\Shared\\SurfUp.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\source\\repos\\MyBlazorProject\\SurfUp\\SurfUp\\Shared\\SurfUp.Shared.csproj",
+        "projectUniqueName": "C:\\Users\\Jacos\\source\\repos\\SurfUpBlazor\\SurfUp\\SurfUp\\Shared\\SurfUp.Shared.csproj",
         "projectName": "SurfUp.Shared",
-        "projectPath": "D:\\source\\repos\\MyBlazorProject\\SurfUp\\SurfUp\\Shared\\SurfUp.Shared.csproj",
+        "projectPath": "C:\\Users\\Jacos\\source\\repos\\SurfUpBlazor\\SurfUp\\SurfUp\\Shared\\SurfUp.Shared.csproj",
         "packagesPath": "C:\\Users\\Jacos\\.nuget\\packages\\",
-        "outputPath": "D:\\source\\repos\\MyBlazorProject\\SurfUp\\SurfUp\\Shared\\obj\\",
+        "outputPath": "C:\\Users\\Jacos\\source\\repos\\SurfUpBlazor\\SurfUp\\SurfUp\\Shared\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Jacos\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -223,6 +235,16 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.10, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

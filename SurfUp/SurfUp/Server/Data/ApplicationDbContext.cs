@@ -3,6 +3,7 @@ using Microsoft.AspNetCore.ApiAuthorization.IdentityServer;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Options;
 using SurfUp.Server.Models;
+using SurfUp.Shared;
 
 namespace SurfUp.Server.Data
 {
@@ -13,5 +14,8 @@ namespace SurfUp.Server.Data
             IOptions<OperationalStoreOptions> operationalStoreOptions) : base(options, operationalStoreOptions)
         {
         }
+        public DbSet<Board> Boards => Set<Board>();
+
+        public DbSet<Rent> Rents => Set<Rent>();
     }
 }
