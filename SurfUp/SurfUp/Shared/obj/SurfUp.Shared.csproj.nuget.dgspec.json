@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Jacos\\source\\repos\\SurfUpBlazor\\SurfUp\\SurfUp\\Shared\\SurfUp.Shared.csproj": {}
+    "C:\\Users\\Daniel Steffen\\source\\repos\\SurfUpBlazor\\SurfUp\\SurfUp\\Shared\\SurfUp.Shared.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Jacos\\source\\repos\\SurfUpBlazor\\SurfUp\\SurfUp\\Shared\\SurfUp.Shared.csproj": {
+    "C:\\Users\\Daniel Steffen\\source\\repos\\SurfUpBlazor\\SurfUp\\SurfUp\\Shared\\SurfUp.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Jacos\\source\\repos\\SurfUpBlazor\\SurfUp\\SurfUp\\Shared\\SurfUp.Shared.csproj",
+        "projectUniqueName": "C:\\Users\\Daniel Steffen\\source\\repos\\SurfUpBlazor\\SurfUp\\SurfUp\\Shared\\SurfUp.Shared.csproj",
         "projectName": "SurfUp.Shared",
-        "projectPath": "C:\\Users\\Jacos\\source\\repos\\SurfUpBlazor\\SurfUp\\SurfUp\\Shared\\SurfUp.Shared.csproj",
-        "packagesPath": "C:\\Users\\Jacos\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Jacos\\source\\repos\\SurfUpBlazor\\SurfUp\\SurfUp\\Shared\\obj\\",
+        "projectPath": "C:\\Users\\Daniel Steffen\\source\\repos\\SurfUpBlazor\\SurfUp\\SurfUp\\Shared\\SurfUp.Shared.csproj",
+        "packagesPath": "C:\\Users\\Daniel Steffen\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Daniel Steffen\\source\\repos\\SurfUpBlazor\\SurfUp\\SurfUp\\Shared\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Jacos\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Daniel Steffen\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -65,7 +65,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }

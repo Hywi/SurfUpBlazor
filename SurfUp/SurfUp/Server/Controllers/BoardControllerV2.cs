@@ -1,34 +1,47 @@
-﻿using Microsoft.AspNetCore.Authorization;
+﻿using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Data.SqlClient;
 using Microsoft.EntityFrameworkCore;
 using SurfUp.Server.Data;
-using SurfUp.Server.Models;
 using SurfUp.Shared;
-using System.Security.Claims;
 
 namespace SurfUp.Server.Controllers
 {
-
     [Route("api/[controller]")]
     [ApiController]
-    [ApiVersion("1.0")]
-    public class BoardControllerV1 : Controller
+    [ApiVersion("2.0")]
+    public class BoardControllerV2 : ControllerBase
     {
         private readonly ApplicationDbContext _context;
-        public BoardControllerV1(ApplicationDbContext context)
+        public BoardControllerV2(ApplicationDbContext context)
         {
             _context = context;
         }
         [HttpGet]
-        public async Task<IEnumerable<Board>> GetAllBoard()
+        public async Task<IEnumerable<Board>> GetAllBoards()
         {
-            return _context.Boards.OrderBy(a => a.Name).ToList();
+            return _context.Boards.OrderBy(a => a.Name).ToList().Where(b => b.Premium == false);
         }
+
         [HttpGet("{id}")]
         public async Task<ActionResult> GetBoard(int id)
         {
-            return Ok(_context.Boards.Find(id));
+            var boards = await _context.Boards.FindAsync(id);
+
+            if (!BoardExists(id))
+            {
+                return NotFound();
+            }
+
+            else if (boards.Premium == true)
+            {
+                return Unauthorized();
+            }
+
+            else
+            {
+                return Ok(_context.Boards.Find(id));
+            }
         }
 
         [HttpPost("Rent/{id}")]
@@ -78,6 +91,7 @@ namespace SurfUp.Server.Controllers
             }
             return Ok(rent);
         }
+
         private bool BoardExists(int id)
         {
             return _context.Boards.Any(e => e.Id == id);
@@ -95,5 +109,7 @@ namespace SurfUp.Server.Controllers
             }
             return tmpBoard;
         }
-    }    
+
+    }
 }
+

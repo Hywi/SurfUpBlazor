@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Jacos\\source\\repos\\SurfUpBlazor\\SurfUp\\SurfUp\\Server\\SurfUp.Server.csproj": {}
+    "C:\\Users\\Daniel Steffen\\source\\repos\\SurfUpBlazor\\SurfUp\\SurfUp\\Server\\SurfUp.Server.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Jacos\\source\\repos\\SurfUpBlazor\\SurfUp\\SurfUp\\Client\\SurfUp.Client.csproj": {
+    "C:\\Users\\Daniel Steffen\\source\\repos\\SurfUpBlazor\\SurfUp\\SurfUp\\Client\\SurfUp.Client.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Jacos\\source\\repos\\SurfUpBlazor\\SurfUp\\SurfUp\\Client\\SurfUp.Client.csproj",
+        "projectUniqueName": "C:\\Users\\Daniel Steffen\\source\\repos\\SurfUpBlazor\\SurfUp\\SurfUp\\Client\\SurfUp.Client.csproj",
         "projectName": "SurfUp.Client",
-        "projectPath": "C:\\Users\\Jacos\\source\\repos\\SurfUpBlazor\\SurfUp\\SurfUp\\Client\\SurfUp.Client.csproj",
-        "packagesPath": "C:\\Users\\Jacos\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Jacos\\source\\repos\\SurfUpBlazor\\SurfUp\\SurfUp\\Client\\obj\\",
+        "projectPath": "C:\\Users\\Daniel Steffen\\source\\repos\\SurfUpBlazor\\SurfUp\\SurfUp\\Client\\SurfUp.Client.csproj",
+        "packagesPath": "C:\\Users\\Daniel Steffen\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Daniel Steffen\\source\\repos\\SurfUpBlazor\\SurfUp\\SurfUp\\Client\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Jacos\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Daniel Steffen\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -28,8 +28,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Jacos\\source\\repos\\SurfUpBlazor\\SurfUp\\SurfUp\\Shared\\SurfUp.Shared.csproj": {
-                "projectPath": "C:\\Users\\Jacos\\source\\repos\\SurfUpBlazor\\SurfUp\\SurfUp\\Shared\\SurfUp.Shared.csproj"
+              "C:\\Users\\Daniel Steffen\\source\\repos\\SurfUpBlazor\\SurfUp\\SurfUp\\Shared\\SurfUp.Shared.csproj": {
+                "projectPath": "C:\\Users\\Daniel Steffen\\source\\repos\\SurfUpBlazor\\SurfUp\\SurfUp\\Shared\\SurfUp.Shared.csproj"
               }
             }
           }
@@ -84,7 +84,7 @@
           "downloadDependencies": [
             {
               "name": "Microsoft.NETCore.App.Runtime.Mono.browser-wasm",
-              "version": "[6.0.10, 6.0.10]"
+              "version": "[6.0.9, 6.0.9]"
             }
           ],
           "frameworkReferences": {
@@ -92,7 +92,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
         }
       },
       "runtimes": {
@@ -101,17 +101,17 @@
         }
       }
     },
-    "C:\\Users\\Jacos\\source\\repos\\SurfUpBlazor\\SurfUp\\SurfUp\\Server\\SurfUp.Server.csproj": {
+    "C:\\Users\\Daniel Steffen\\source\\repos\\SurfUpBlazor\\SurfUp\\SurfUp\\Server\\SurfUp.Server.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Jacos\\source\\repos\\SurfUpBlazor\\SurfUp\\SurfUp\\Server\\SurfUp.Server.csproj",
+        "projectUniqueName": "C:\\Users\\Daniel Steffen\\source\\repos\\SurfUpBlazor\\SurfUp\\SurfUp\\Server\\SurfUp.Server.csproj",
         "projectName": "SurfUp.Server",
-        "projectPath": "C:\\Users\\Jacos\\source\\repos\\SurfUpBlazor\\SurfUp\\SurfUp\\Server\\SurfUp.Server.csproj",
-        "packagesPath": "C:\\Users\\Jacos\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Jacos\\source\\repos\\SurfUpBlazor\\SurfUp\\SurfUp\\Server\\obj\\",
+        "projectPath": "C:\\Users\\Daniel Steffen\\source\\repos\\SurfUpBlazor\\SurfUp\\SurfUp\\Server\\SurfUp.Server.csproj",
+        "packagesPath": "C:\\Users\\Daniel Steffen\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Daniel Steffen\\source\\repos\\SurfUpBlazor\\SurfUp\\SurfUp\\Server\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Jacos\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Daniel Steffen\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -125,11 +125,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Jacos\\source\\repos\\SurfUpBlazor\\SurfUp\\SurfUp\\Client\\SurfUp.Client.csproj": {
-                "projectPath": "C:\\Users\\Jacos\\source\\repos\\SurfUpBlazor\\SurfUp\\SurfUp\\Client\\SurfUp.Client.csproj"
+              "C:\\Users\\Daniel Steffen\\source\\repos\\SurfUpBlazor\\SurfUp\\SurfUp\\Client\\SurfUp.Client.csproj": {
+                "projectPath": "C:\\Users\\Daniel Steffen\\source\\repos\\SurfUpBlazor\\SurfUp\\SurfUp\\Client\\SurfUp.Client.csproj"
               },
-              "C:\\Users\\Jacos\\source\\repos\\SurfUpBlazor\\SurfUp\\SurfUp\\Shared\\SurfUp.Shared.csproj": {
-                "projectPath": "C:\\Users\\Jacos\\source\\repos\\SurfUpBlazor\\SurfUp\\SurfUp\\Shared\\SurfUp.Shared.csproj"
+              "C:\\Users\\Daniel Steffen\\source\\repos\\SurfUpBlazor\\SurfUp\\SurfUp\\Shared\\SurfUp.Shared.csproj": {
+                "projectPath": "C:\\Users\\Daniel Steffen\\source\\repos\\SurfUpBlazor\\SurfUp\\SurfUp\\Shared\\SurfUp.Shared.csproj"
               }
             }
           }
@@ -204,21 +204,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Jacos\\source\\repos\\SurfUpBlazor\\SurfUp\\SurfUp\\Shared\\SurfUp.Shared.csproj": {
+    "C:\\Users\\Daniel Steffen\\source\\repos\\SurfUpBlazor\\SurfUp\\SurfUp\\Shared\\SurfUp.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Jacos\\source\\repos\\SurfUpBlazor\\SurfUp\\SurfUp\\Shared\\SurfUp.Shared.csproj",
+        "projectUniqueName": "C:\\Users\\Daniel Steffen\\source\\repos\\SurfUpBlazor\\SurfUp\\SurfUp\\Shared\\SurfUp.Shared.csproj",
         "projectName": "SurfUp.Shared",
-        "projectPath": "C:\\Users\\Jacos\\source\\repos\\SurfUpBlazor\\SurfUp\\SurfUp\\Shared\\SurfUp.Shared.csproj",
-        "packagesPath": "C:\\Users\\Jacos\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Jacos\\source\\repos\\SurfUpBlazor\\SurfUp\\SurfUp\\Shared\\obj\\",
+        "projectPath": "C:\\Users\\Daniel Steffen\\source\\repos\\SurfUpBlazor\\SurfUp\\SurfUp\\Shared\\SurfUp.Shared.csproj",
+        "packagesPath": "C:\\Users\\Daniel Steffen\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Daniel Steffen\\source\\repos\\SurfUpBlazor\\SurfUp\\SurfUp\\Shared\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Jacos\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Daniel Steffen\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -269,7 +269,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }

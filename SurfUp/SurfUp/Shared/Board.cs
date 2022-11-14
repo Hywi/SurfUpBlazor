@@ -31,6 +31,8 @@ namespace SurfUp.Shared
         public bool IsRented { get; set; } = false;
 
         public bool Premium { get; set; }
+        public string? UserID { get; set; }
+
 
 
     }

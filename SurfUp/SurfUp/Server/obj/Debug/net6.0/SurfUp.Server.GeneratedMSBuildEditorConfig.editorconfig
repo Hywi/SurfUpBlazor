@@ -8,49 +8,49 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = SurfUp.Server
 build_property.RootNamespace = SurfUp.Server
-build_property.ProjectDir = C:\Users\Jacos\source\repos\SurfUpBlazor\SurfUp\SurfUp\Server\
+build_property.ProjectDir = C:\Users\Daniel Steffen\source\repos\SurfUpBlazor\SurfUp\SurfUp\Server\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\Jacos\source\repos\SurfUpBlazor\SurfUp\SurfUp\Server
+build_property.MSBuildProjectDirectory = C:\Users\Daniel Steffen\source\repos\SurfUpBlazor\SurfUp\SurfUp\Server
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/Jacos/source/repos/SurfUpBlazor/SurfUp/SurfUp/Server/Areas/Identity/Pages/Account/Register.cshtml]
+[C:/Users/Daniel Steffen/source/repos/SurfUpBlazor/SurfUp/SurfUp/Server/Areas/Identity/Pages/Account/Register.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Jacos/source/repos/SurfUpBlazor/SurfUp/SurfUp/Server/Areas/Identity/Pages/Account/_ViewImports.cshtml]
+[C:/Users/Daniel Steffen/source/repos/SurfUpBlazor/SurfUp/SurfUp/Server/Areas/Identity/Pages/Account/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxfVmlld0ltcG9ydHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Jacos/source/repos/SurfUpBlazor/SurfUp/SurfUp/Server/Areas/Identity/Pages/Shared/_LoginPartial.cshtml]
+[C:/Users/Daniel Steffen/source/repos/SurfUpBlazor/SurfUp/SurfUp/Server/Areas/Identity/Pages/Shared/_LoginPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Jacos/source/repos/SurfUpBlazor/SurfUp/SurfUp/Server/Areas/Identity/Pages/_ViewImports.cshtml]
+[C:/Users/Daniel Steffen/source/repos/SurfUpBlazor/SurfUp/SurfUp/Server/Areas/Identity/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Jacos/source/repos/SurfUpBlazor/SurfUp/SurfUp/Server/Areas/Identity/Pages/_ViewStart.cshtml]
+[C:/Users/Daniel Steffen/source/repos/SurfUpBlazor/SurfUp/SurfUp/Server/Areas/Identity/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Jacos/source/repos/SurfUpBlazor/SurfUp/SurfUp/Server/Pages/Error.cshtml]
+[C:/Users/Daniel Steffen/source/repos/SurfUpBlazor/SurfUp/SurfUp/Server/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Jacos/source/repos/SurfUpBlazor/SurfUp/SurfUp/Server/Pages/Shared/_Layout.cshtml]
+[C:/Users/Daniel Steffen/source/repos/SurfUpBlazor/SurfUp/SurfUp/Server/Pages/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Jacos/source/repos/SurfUpBlazor/SurfUp/SurfUp/Server/Pages/Shared/_LoginPartial.cshtml]
+[C:/Users/Daniel Steffen/source/repos/SurfUpBlazor/SurfUp/SurfUp/Server/Pages/Shared/_LoginPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Jacos/source/repos/SurfUpBlazor/SurfUp/SurfUp/Server/Pages/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/Daniel Steffen/source/repos/SurfUpBlazor/SurfUp/SurfUp/Server/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Jacos/source/repos/SurfUpBlazor/SurfUp/SurfUp/Server/Pages/_ViewImports.cshtml]
+[C:/Users/Daniel Steffen/source/repos/SurfUpBlazor/SurfUp/SurfUp/Server/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 

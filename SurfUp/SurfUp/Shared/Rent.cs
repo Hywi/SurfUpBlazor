@@ -18,5 +18,8 @@ namespace SurfUp.Shared
         public DateTime StartRent { get; set; }
 
         public DateTime EndRent { get; set; }
+
+        public string? UserID { get; set; }
+
     }
 }
